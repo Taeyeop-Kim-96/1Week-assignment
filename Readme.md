@@ -10,4 +10,4 @@
 
 ## 3주차 과제 (2020.06.04)
 
-[3주차과제](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/2Week.ipynb "Go 3주차")
+[3주차과제](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/3Week.ipynb "Go 3주차")
