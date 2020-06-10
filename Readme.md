@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-[인공지능 사례 분석](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/1week.ipynb "Go 1주차")
+[인공지능 사례 분석](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/1week.ipynb)
 
 ## 2주차 과제 (2020.05.28)
 
