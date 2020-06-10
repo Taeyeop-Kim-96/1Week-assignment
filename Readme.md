@@ -6,4 +6,4 @@
 
 ## 2주차 과제 (2020.05.28)
 
-[파이썬과 인공지능 기초수학](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/2Week.ipynb "Go 2주차")
+[파이썬과 인공지능 기초수학](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/2Week.ipynb)
