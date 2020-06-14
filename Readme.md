@@ -14,4 +14,4 @@
 
 ## 4주차 과제 (2020.06.11)
 
-[딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산]()
+[딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/Taeyeop-Kim-96/Pre-course-assignment/blob/master/4Week.ipynb)
